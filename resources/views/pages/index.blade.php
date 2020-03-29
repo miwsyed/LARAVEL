@@ -15,11 +15,11 @@
 			</div>
 			<div class="menu">
 				<ul>
-					<li><a href="index.php" class="active">Home</a></li>
-					<li><a href="Tournament.php" >Tournament</a></li>
+					<li><a href="/index" class="active">Home</a></li>
+					<li><a href="/tournament" >Tournament</a></li>
 					<li><a href="#" >My ECode</a></li>
-					<li><a href="Contact.php" >Contact Us</a></li>
-					<li><a href="About.php" >About</a></li>
+					<li><a href="/contact" >Contact Us</a></li>
+					<li><a href="/about" >About</a></li>
 
 				</ul>
 			</div>

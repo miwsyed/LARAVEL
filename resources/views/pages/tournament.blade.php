@@ -19,11 +19,11 @@
 			</div>
 			<div class="menu">
 				<ul>
-					<li><a href="index.php">Home</a></li>
-					<li><a href="Tournament.php" class="active" >Tournament</a></li>
+					<li><a href="/index" >Home</a></li>
+					<li><a href="/tournament" class="active" >Tournament</a></li>
 					<li><a href="#" >My ECode</a></li>
-					<li><a href="Contact.php" >Contact Us</a></li>
-					<li><a href="About.php" >About</a></li>
+					<li><a href="/contact" >Contact Us</a></li>
+					<li><a href="/about" >About</a></li>
 
 				</ul>
 			</div>
